@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OHRM">
+<test name="TC_101">
+<classes>
+<class name="com.OHRM.TestScripts.TC_101"/>
+</classes>
+</test>
+</suite>
